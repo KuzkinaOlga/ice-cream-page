@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://goitacademy.AleksandroKravchuk/team-progect",
+  "homepage": "https://github.com/KuzkinaOlga/ice-cream-page",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-progect/"
+    "build": "parcel build src/*.html --public-url /ice-cream-page/"
   },
   "repository": {
     "type": "git",
@@ -25,12 +25,7 @@
     "posthtml-include": "^1.6.2",
     "sass": "^1.32.8"
   },
-
-
   "dependencies": {
     "caniuse-lite": "^1.0.30001302"
   }
-
-  
-
 }
